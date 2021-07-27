@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+    font-family: "Rubik", serif;
+    
+ 
+}
+
+
+.nav-link{
+    margin-right: 30px;
+    margin-left: 30px;
+    font-family: "Rubik", serif;
+    font-size: 14px;
+   
+    
+}
+.nav-link {
+    color:#1d2c4c !important;
+}
+.main{
+    background: url(./img/img2.jpg)no-repeat;
+    background-size:contain;
+    display: block;
+    height: 64vh;
+ }
+.btn{
+    background: linear-gradient(130deg, #2ab26f 0%, #0084ba 100%);
+    transition: 0.3s;
+    border-radius: 0px;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 8px 20px;
+    outline: none !important;
+}
+h2{
+    font-size: 1.73333rem;
+    color: #2ab26f;
+}
+video{
+    height: 214px;
+}
+.list li{
+    list-style: none;
+}
+h3{
+    color: #2ab26f;
+}
+h4{
+    color: #2ab26f;
+}
+.submit{
+    background: linear-gradient(130deg, #2ab26f 0%, #0084ba 100%);
+    transition: 0.3s;
+    border-radius: 0px;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 8px 20px;
+    outline: none !important; 
+}
+.btn2{
+    background: linear-gradient(130deg, #2ab26f 0%, #0084ba 100%);
+    transition: 0.3s;
+    border-radius: 0px;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 8px 20px;
+    outline: none !important; 
+}
+.content{
+    background-color: #40e0d0;
+ 
+
+}
+.content p{
+    margin:0;
+}
+.fb{
+    font-size: 2.5rem;
+    cursor: pointer
+    padding-right:3px;
+}
